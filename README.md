@@ -8,4 +8,4 @@ The TrueSkill.ipynb notebook contains the code to calculate the three ranking me
 
 Finally, the CaseStudy.ipynb notebook contains the code to do the downstream race outcome estimation benchmark study.
 
-All data can be found within this GitHub repository, besides the GPX files. As this GPX data set was too large, we uploaded an enlarged set of races to figshare: https://figshare.com/articles/dataset/Cycling_Analytics_Data_Sets/24566542
+All data can be found within this GitHub repository, besides some large files. As these files were too large to upload to GitHub, we uploaded these to figshare: https://figshare.com/articles/dataset/PerfoRank_Data/25117451 
